@@ -1,1 +1,1 @@
-java_spring_crud_joinTable_backEnd
+java-crud-multiple-table
